@@ -29,7 +29,7 @@ public class Singleton {
 
         if(singleton1 == singleton2)
         {
-            System.out.println("singleton1 & singleton2 point to the same memory location!");
+            System.out.println("singleton1 & singleton2 refer to the same memory location!");
         }
         else
         {
